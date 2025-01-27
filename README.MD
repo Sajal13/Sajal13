@@ -75,12 +75,11 @@ I'm a passionate **Front-End Developer** with a knack for creating intuitive, hi
   <a href="https://sajaldas-v2.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="mailto:sajaldas138900@gmail.com">
+  <a href="mailto:sajaldas138900@gmail.com" >
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" />
   </a>
 </div>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sajaldas138900@gmail.com)  
 
 ---
 
