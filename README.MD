@@ -62,8 +62,6 @@ I'm a passionate **Front-End Developer** with a knack for creating intuitive, hi
 ---
 
 ### 📊 GitHub Stats  
-
-![Sajal's GitHub Streak](https://streak-stats.demolab.com/?user=Sajal13&theme=radical)  
 ![Sajal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajal13&layout=compact&theme=radical)  
 
 ---
