@@ -32,7 +32,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer with 3.5+ years of experience** building production-ready web applications.
+I'm a **Software Engineer with 3.9+ years of experience** building production-ready web applications.
 
 My primary focus is **frontend engineering**, with experience across:
 
@@ -68,10 +68,10 @@ I enjoy taking an idea from:
 │     Video.js · Adaptive Streaming · CMS                      │
 │                                                              │
 │  ⚙️ Performance Engineering                                  │
-│     Code Splitting · Lazy Loading · Optimization              │
+│     Code Splitting · Lazy Loading · Optimization             │
 │                                                              │
 │  🔌 API-driven Applications                                  │
-│     REST APIs · Authentication · Dynamic Content              │
+│     REST APIs · Authentication · Dynamic Content             │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
